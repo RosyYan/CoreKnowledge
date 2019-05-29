@@ -1,4 +1,5 @@
 <font face='Consolas'>
+    
 ## IO模型
 1. BIO
     Block-IO，通过Socket和ServerSocket完成客户和服务端之间的通信。最大的问题是阻塞、同步、建立连接耗时（依赖网络）
